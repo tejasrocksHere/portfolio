@@ -30,7 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are &nbsp;
               <i>
-                <b className="purple">Web Technologies & Python (AI) </b> and
+                <b className="purple">Web Technologies,Problem Solving(DSA & CP) & Python (AI) </b> and
                 also interested in in areas related to{" "}
                 <b className="purple">
                   Computer Vision,Deep Learning and IOT.
