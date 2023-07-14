@@ -6,7 +6,7 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import dino from "../../Assets/Projects/dino.jpg";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import helmet from "../../Assets/Projects/img.jpg";
 import painter from "../../Assets/Projects/aipainter.jpg";
@@ -39,7 +39,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Amazon-Clone"
-              description="application built using ReactJS and Firebase. As we all know, e-commerce websites are essential for developers, which is why I decided to create my own version of the Amazon app."
+              description="Application built using ReactJS and Firebase. As we all know, e-commerce websites are essential for developers, which is why I decided to create my own version of the Amazon app.learn advanece concept of web-dev"
               ghLink="https://github.com/tejasrocksHere/amazon-full-stack-clone.git"
               demoLink="https://www.linkedin.com/posts/tejas-mundhe-578bb6232_react-reactjs-learning-activity-7048645973606100992-f5SS?utm_source=share&utm_medium=member_desktop"
             />
@@ -88,6 +88,44 @@ function Projects() {
               // ghLink="
   
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath='https://preview.redd.it/wrpe2necimp91.png?width=640&crop=smart&auto=webp&s=86995d49be70d89793af0cdce800dff3158ad302'
+              isBlog={false}
+              title="Youtube Clone"
+              description="
+              The Youtube Clone is a web app that mimics YouTube, offering video search, playback, playlist management, channel subscriptions, comments, and likes/dislikes. It leverages React, Node.js/Express, and the YouTube Data API, providing developers with hands-on experience in building a feature-rich web application and understanding video-sharing platform concepts."
+              // ghLink="
+  
+              demoLink="https://tejatube.netlify.app/"      
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+  
+  
+              imgPath='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tu0jfWhePEbFfWazySPI2Bt0nMCQ65DaDA&usqp=CAU'
+              isBlog={false}
+              title="Tick-tac-toe"
+              description="
+              
+The Tic Tac Toe Game is a timeless and engaging web-based game developed using HTML, CSS, and JavaScript. It allows players to compete against each other in a classic battle of X's and O's on a grid of 3x3 squares. With a simple and intuitive user interface, players take turns marking their symbols on the board, aiming to create a winning pattern horizontally, vertically, or diagonally. "
+              // ghLink="
+  
+              demoLink="https://tejachi1stgame.netlify.app/"      
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={dino}
+              isBlog={false}
+              title="Dino-Game🦖"
+              description="The Dino Game is a classic web-based game built with HTML, CSS, and JavaScript. Inspired by the popular Chrome offline dinosaur game, it challenges players to control a pixelated dinosaur and help it navigate through an endless desert, avoiding obstacles by jumping over them. The game features simple yet addictive gameplay, minimalist graphics, and an increasing difficulty level as the player progresses. "
+              // ghLink="
+  
+              demoLink="https://tejasorousgame.netlify.app/"      
             />
           </Col>
         </Row>
