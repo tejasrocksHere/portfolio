@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tejasrocksHere/portfolio.git/static/css/main.fd0b7c1d.css",
+    "main.js": "/tejasrocksHere/portfolio.git/static/js/main.ab31f029.js",
+    "static/js/415.4d6acbeb.chunk.js": "/tejasrocksHere/portfolio.git/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/tejasrocksHere/portfolio.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/tejasrocksHere/portfolio.git/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/tejasrocksHere/portfolio.git/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/codeEditor.png": "/tejasrocksHere/portfolio.git/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/tejasrocksHere/portfolio.git/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Tejas_Mundhe_Resume.pdf": "/tejasrocksHere/portfolio.git/static/media/Tejas_Mundhe_Resume.9e917906add060b69e28.pdf",
+    "static/media/home-main.svg": "/tejasrocksHere/portfolio.git/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/tejasrocksHere/portfolio.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/img.jpg": "/tejasrocksHere/portfolio.git/static/media/img.47f54f791b0bed7717aa.jpg",
+    "static/media/dino.jpg": "/tejasrocksHere/portfolio.git/static/media/dino.fac92067822d8a478a57.jpg",
+    "static/media/logo.png": "/tejasrocksHere/portfolio.git/static/media/logo.b58198c436db49bec1c1.png",
+    "static/media/chatify.png": "/tejasrocksHere/portfolio.git/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/aipainter.jpg": "/tejasrocksHere/portfolio.git/static/media/aipainter.ce797553993ba6a2741d.jpg",
+    "static/media/home-bg.jpg": "/tejasrocksHere/portfolio.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/tejasrocksHere/portfolio.git/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/tejasrocksHere/portfolio.git/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/tejasrocksHere/portfolio.git/index.html",
+    "main.fd0b7c1d.css.map": "/tejasrocksHere/portfolio.git/static/css/main.fd0b7c1d.css.map",
+    "main.ab31f029.js.map": "/tejasrocksHere/portfolio.git/static/js/main.ab31f029.js.map",
+    "415.4d6acbeb.chunk.js.map": "/tejasrocksHere/portfolio.git/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/tejasrocksHere/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0b7c1d.css",
+    "static/js/main.ab31f029.js"
+  ]
+}
